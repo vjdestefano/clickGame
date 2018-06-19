@@ -148,6 +148,7 @@ class Game extends Component {
           size: "50px"
           }
   
+          // for(let pbj)
     
     return (
       <div className = "test">
@@ -158,7 +159,7 @@ class Game extends Component {
         <img src ={buttonStyle.src} alt="terrorImage" style = {{color: buttonStyle.color, position: buttonStyle.position, top: buttonStyle.top, left: buttonStyle.left, width:buttonStyle.size}} className="shootIt" onClick={this.handleSubmit} />
 
 
-
+      
         
 
         
